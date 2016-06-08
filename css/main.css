@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+body {
+	background-color: black;
+	font-family: 'Pacifico', cursive;
+}
+
+#header {
+	float: left;
+	text-decoration: none;
+	background-color: black;
+	color: white;
+	width: 100%;
+}
+
+ul {
+	position: relative;
+	left: 850px;
+}
+
+li {
+	float: left;
+	text-decoration: none;
+	color: white;
+	list-style: none;
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
+
+#mainpic {
+	width: 1800px;
+	height: 500px;
+	background-color: red;
+	margin: auto;
+}
+
+#mainpic img {
+	height: 450px;
+	width: 1800px;
+}
+
+#biography {
+	height: 500px;
+	width: 1900px;
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 20px;
+	color: white;
+}
+
+#bio-pic {
+	position: relative;
+	left: 850px;
+	top: 40px;
+	width: 200px;
+}
+
+#bio-text {
+	padding: 50px;
+	line-height: 2em;
+	color: white;
+}
+
+#projects {
+	background-color: black;
+	width: 1900px;
+}
+
+.project-pic {
+	position: relative;
+	left: 850px;
+	padding-top: 50px;
+	width: 200px;
+}
+
+.project-text {
+	padding: 50px;
+	line-height: 2em;
+	color: white;
+}
+
+#contact {
+	background-color: blue;
+}
